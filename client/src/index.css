@@ -1,0 +1,207 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montaga&display=swap');
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  .montaga-regular {
+    font-family: "Montaga", serif;
+    font-weight: 400;
+    font-style: normal !important;
+  }
+  .img-fluid{
+    justify-content: center !important;
+    text-align: center !important;
+    margin-left: 0px !important;
+    
+    }
+.navbar{
+    background-color:red;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.2)!important;
+    
+  }
+  .write{
+    color:white !important;
+    font-size: 30px !important;
+    
+  }
+  .logo{
+    height: 120px !important;
+    width: 200px  !important;
+
+    
+  }
+  
+
+
+
+
+
+
+  .flit{
+    background: linear-gradient(to right,
+    rgb(22,238,25),
+    rgb(114,214,233),
+    rgb(203,101,230),
+    rgb(12,174,230),
+    rgb(25,12,2),
+    rgb(24,98,224));
+    
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+  
+  }
+  
+}
+.nav-link{
+  color:whitesmoke!important;
+  font-size: 25px !important;
+  font-weight: 600 !important;
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.navbar-brand{
+  color:red !important;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif !important;
+  font-weight: 700 !important;
+  background-color: transparent;
+  font-size: 60px !important;
+  margin-top: 30px !important;
+
+}
+.sharma{
+  font-size: 50px !important;
+  color: white!important;
+  font-weight : 900 !important;
+  font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+  
+}
+.form-control-custom{
+  width:405px !important;
+  height:35px !important;
+  margin-left: 450px !important;
+}
+h1{
+  font-size: 30px !important;
+}
+.flex-container{
+  display:flex !important
+}
+.btn{
+  background-color: red !important;
+  color:white!important;
+  display:flex !important;
+  text-align: right !important;
+  justify-items: center;
+  margin:15px !important;
+  text-align: center;
+  display:inline-flex !important;
+  
+
+}
+.btn:hover {
+  border:3px solid black 
+  !important;
+}
+select{
+  box-shadow:none !important;
+  border-color: black !important;
+}
+.continous-showing{
+  font-size: 30px !important;
+  color:rgb(255, 0, 0) !important;
+  margin-top: 1!important;
+
+  
+  font-weight: 500 !important;
+}
+.aryan{
+  font-size: 32px !important;
+  color:black !important;
+  font-weight: 500px;
+}
+
+
+
+ 
+.sigcon {
+  
+  width:800px !important;
+     
+     border-radius: 10px !important;
+     border-color: black !important;
+     border: 2px solid !important;
+     margin-left: 220px !important;
+     justify-content: center !important;
+     align-items: center !important;
+     align-content: center !important;
+     box-shadow: 0 4 10px rgba(0, 0, 0, 0.1) !important;
+     color:blanchedalmond !important;
+
+}
+.container {
+  width:1000px !important;
+  height: 300px !important;
+  font-size: 30px !important;
+  color : whitesmoke!important;
+     
+  border-radius: 10px !important;
+  border-color:white !important;
+  border: 2px solid !important;
+  margin-left: 220px !important;
+  justify-content: center !important;
+  align-items: center !important;
+  align-content: center !important;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1) !important;
+ 
+}
+.pandit {
+  color:black !important;
+  margin-bottom:160px !important;
+}
+
+.aaryan {
+  color:blue !important;
+  font-size: 20px !important;
+}
+.aary {
+  justify-content: right !important;
+}
+.LOVELY {
+  font-size: 25px !important;
+  font-weight: 700!important;
+  color:"white !important"
+}
+.card-name{
+  color: black !important;
+  font-size: 30px !important;
+}
+.sumit {
+  color: black!important;
+  font-size: 30px !important;
+  margin-top: -80px !important;
+  margin-left: 200px !important;
+}
+.sanjay {
+  color: brown!important ;
+  font-size: 30px !important;
+  font-weight: 700px !important;
+  background-color: beige;
+}
+.empty{
+  color: white !important;
+  font-size: 50px !important;
+  align-items: center !important;
+  justify-content: center !important;
+  text-align: center !important;
+  margin-top: 200px !important;
+}
